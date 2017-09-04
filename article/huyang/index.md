@@ -8,11 +8,6 @@ layout: photo
 photos:
  - http://bruce.u.qiniudn.com/2013/11/27/reading/photos-0.jpg
  - http://bruce.u.qiniudn.com/2013/11/27/reading/photos-1.jpg
-
-作者：编程之乐
-链接：http://www.jianshu.com/p/5d5931289c09
-來源：简书
-著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
 ---
 
 维护人|位置|联系方式
