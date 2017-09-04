@@ -4,7 +4,9 @@ date: 2017-09-03 02:46:53
 tags: 环境
 categories: 教育
 copyright: true
-password: datang
+password: datang         
+abstract: Welcome to my blog, enter password to read.
+message: Welcome to my blog, enter password to read.
 ---
 
 系统|账号|密码

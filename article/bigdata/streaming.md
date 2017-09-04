@@ -4,7 +4,9 @@ date: 2017-08-31 22:53:53
 tags: bigdata
 categories: 流式
 copyright: true
-password: 123
+password: Mike         
+abstract: 流式计算总结，案例分析.
+message: 请输入密码.
 ---
 
 ## 我用过的流式框架
