@@ -1,8 +1,8 @@
 ---
-title: 流式计算·引子
+title: 大唐·edu
 date: 2017-09-03 02:46:53
-tags: bigdata
-categories:
+tags: 环境
+categories: 教育
 copyright: true
 password: datang
 ---
