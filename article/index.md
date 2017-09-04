@@ -1,16 +1,9 @@
-<style>
-img{
-    width: 15%;
-}
-</style>
-
 ---
 title: 个人简介
 date: 2017-08-31 22:53:53
 tags: bigdata
 categories: bigdata
 copyright: true
-password: 123
 keywords:
         - bigdata
         - 大数据
@@ -18,6 +11,7 @@ keywords:
 
 
 > 主业数据，吃了多年离线、实时的饭碗，也领过前端的盒饭。不是什么大牛，但是不敢放下努力的脚步。我的梦想是：再努力一下，喝下全栈这碗鸡汤。
+
 ## 职场👣
 
 ### [高德](http://mobile.amap.com/)
@@ -56,7 +50,7 @@ $ echo 'what are you buying?'
 职场勾心斗角，宫廷剧无处不在，大环境使然。对于一枚码农来说，收获代码的同时，还要能收获兄弟。
 
 ## 联系我
-QQ:  <a target="_blank" href="http://wpa.qq.com/msgrd?v=3&uin=&site=qq&menu=yes"><img border="0" src="http://wpa.qq.com/pa?p=2::52" alt="立即咨询" title="立即咨询"/>363140371</a>
+QQ: 363140371
 WEIXIN: neleasy
 
 > 说重点，招招招人。<a href="mailto:li.qi@alibaba-inc.com" target="_blank" title="阿里妹等你呦">"阿里妹等你呦"</a>
