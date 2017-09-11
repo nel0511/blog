@@ -15,7 +15,7 @@ message: 请输入密码.
 [ambari](http://115.182.107.206:8080/#/login) | ambari | ambari)P:? )P:?
 
 ## 节点流转
-[节点任务流程](/taskflow.md)
+[节点任务流程](/blog/2017/09/03/blog/article/project/datang/taskflow.md)
 
 ## hdfs
 http://115.182.107.206:81/explorer.html#/suanpan/log-v1-storm/
